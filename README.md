@@ -70,6 +70,7 @@ These are impressive metrics that indicate the model should perform well in a pr
 ## Methodology Highlights
 
 The model's main success came from its ability to leverage historical customer data to predict late payments. By splitting the data and calculating aggregated customer statistics, we significantly boosted the model's predictive power without introducing data leakage. This approach ensures that the model should perform similarly on new data outside the test set, maintaining its reliability in real-world applications.
+<img width="909" height="547" alt="image" src="https://github.com/user-attachments/assets/d3d109da-7079-448e-8a0d-8551c9747186" />
 
 ## Limitations & Considerations
 
@@ -78,6 +79,7 @@ When encountering new customers without historical data, the model may not be as
 
 ### Trend Analysis
 An important consideration for implementation is the observed trend of decreasing late payment rates over time. If this trend continues, it may be worth re-evaluating the model to ensure it doesn't rely too heavily on historical data that no longer reflects current payment behaviors. Regular model retraining should be considered to maintain optimal performance.
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/db3ab0bd-0e4d-46ad-b3fb-e3b50828119b" />
 
 ## Business Applications & Future Work
 
