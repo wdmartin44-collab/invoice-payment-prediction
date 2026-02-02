@@ -41,7 +41,7 @@ invoice-payment-prediction/
 ├── notebooks/
 │   └── IBM_Invoice_Final.ipynb
 ├── data/
-├── models/
+│   └── WA_Fn-UseC_-Accounts-Receivable_with_missing
 ├── requirements.txt
 └── README.md
 ```
