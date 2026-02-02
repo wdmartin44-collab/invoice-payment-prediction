@@ -64,6 +64,8 @@ These are impressive metrics that indicate the model should perform well in a pr
 | Logistic Regression | 87% | 0.85 | 0.78 | 0.81 | 0.92 |
 | Random Forest (SMOTE) | 86% | 0.83 | 0.79 | 0.81 | 0.91 |
 | Gradient Boosting | 85% | 0.82 | 0.77 | 0.79 | 0.90 |
+<img width="846" height="701" alt="image" src="https://github.com/user-attachments/assets/99cdd3e7-c599-4686-86ea-bf4082e6766e" />
+
 
 ## Methodology Highlights
 
