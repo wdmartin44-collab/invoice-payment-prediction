@@ -11,6 +11,7 @@ Machine learning model for predicting late invoice payments to optimize cash flo
 - Size: 2,586 invoices
 - Time Period: 2012-2013
 - Target: Binary classification (Late vs On-Time payment)
+<img width="627" height="470" alt="image" src="https://github.com/user-attachments/assets/8b25e457-4749-4753-9982-ef9041e5e518" />
 
 ## Installation and Usage
 
